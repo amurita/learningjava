@@ -16,5 +16,10 @@ public class VariableDeclaration {
         double income = 400000;
         char gender = 'm';
         boolean isPresident = false;
+
+        boolean sendSms = true,
+                bungaBungaParty = true;
+        double x, y,
+                bodyHeight = 185 /* cm */;
     }
 }
