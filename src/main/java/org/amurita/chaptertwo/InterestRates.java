@@ -13,7 +13,7 @@ public class InterestRates {
         double capital = 20000 /* Euro */;
         double interestRate = 3.6 /* Percent */;
         double totalInterestRate = capital * interestRate / 100; // Year 1
-        System.out.print( "Interest: " );
+        System.out.print( "Total interest rate: " );
         System.out.println( totalInterestRate ); // 720.0
     }
 }
