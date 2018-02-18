@@ -15,7 +15,8 @@ public class FirstVariable {
         int age; // Age of the person
         double income; // Income of the person
         char gender; // Gender of the person ('f' oder 'm')
-        boolean isPresident; // Is the person a president? (true or false)
-        boolean isVegetarian; // Is the person a vegetarian?
+        //boolean isPresident; // Is the person a president? (true or false)
+        //boolean isVegetarian; // Is the person a vegetarian?
+        boolean isPresident, isVegetarian;
     }
 }
