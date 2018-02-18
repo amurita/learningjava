@@ -4,7 +4,7 @@
  * @author Amurita
  */
 
-package org.amurita.chapterone.Squared;
+package org.amurita.chapterone;
 
 // Class to square different Integer values.
 public class Squared {
