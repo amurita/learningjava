@@ -11,9 +11,9 @@ public class InterestRates {
     // Calculate total interest rates.
     public static void main( String[] args ) {
         double capital = 20000 /* Euro */;
-        double interestRate = 3.6 /* Prozent */;
-        double totalInterestRate = capital * interestRate / 100; // Jahr 1
-        System.out.print( "Zinsen: " );
+        double interestRate = 3.6 /* Percent */;
+        double totalInterestRate = capital * interestRate / 100; // Year 1
+        System.out.print( "Interest: " );
         System.out.println( totalInterestRate ); // 720.0
     }
 }
