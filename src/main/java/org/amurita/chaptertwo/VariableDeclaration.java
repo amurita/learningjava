@@ -17,6 +17,7 @@ public class VariableDeclaration {
         char gender = 'm';
         boolean isPresident = false;
 
+        // Following are some initializations
         boolean sendSms = true,
                 bungaBungaParty = true;
         double x, y,
