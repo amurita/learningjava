@@ -4,7 +4,7 @@
  * @author Amurita
  */
 
-package org.amurita.chaptertwo;
+package de.amurita.chaptertwo;
 
 // Class to visualize variable argument lists.
 public class VarArgs {

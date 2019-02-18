@@ -4,7 +4,7 @@
  * @author Amurita
  */
 
-package org.amurita.chaptertwo;
+package de.amurita.chaptertwo;
 
 // Class to show how to print to std.-output/-error.
 public class SystemOutErr {

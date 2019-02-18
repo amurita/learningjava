@@ -4,7 +4,7 @@
  * @author Amurita
  */
 
-package org.amurita.chaptertwo;
+package de.amurita.chaptertwo;
 
 // Class to show some variable declarations.
 public class VariableDeclaration {

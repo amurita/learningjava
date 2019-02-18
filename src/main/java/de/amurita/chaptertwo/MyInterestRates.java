@@ -3,7 +3,7 @@
  * @version 1.0 26th of February, 2018
  * @author Amurita
  */
-package org.amurita.chaptertwo;
+package de.amurita.chaptertwo;
 
 // Class to calculate interest rates (advanced version).
 public class MyInterestRates {

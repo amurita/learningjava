@@ -4,7 +4,7 @@
  * @author Amurita
  */
 
-package org.amurita.chaptertwo;
+package de.amurita.chaptertwo;
 
 // Class for small conversations.
 public class SmallConversation {
