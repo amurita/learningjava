@@ -1,5 +1,5 @@
 /**
- * Ninth Java example program (Swing version).
+ * Tenth Java example program (Swing version).
  * @version 1.0 26th of February, 2018
  * @author Amurita
  */
